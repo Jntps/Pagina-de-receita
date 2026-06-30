@@ -1,17 +1,17 @@
-# Front-end Style Guide
+# Guia de Estilo Front-end
 
 ## Layout
 
-The designs were created to the following widths:
+Os designs foram criados com as seguintes larguras:
 
 - Mobile: 375px
 - Desktop: 1440px
 
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+> 💡 Estes são apenas os tamanhos do design. Certifique-se de que o conteúdo seja responsivo e atenda aos requisitos WCAG, testando toda a gama de tamanhos de tela, desde 320px até telas grandes.
 
-## Colors
+## Cores
 
-- White: hsl(0, 0%, 100%)
+- Branco: hsl(0, 0%, 100%)
 
 - Stone 100: hsl(30, 54%, 90%)
 - Stone 150: hsl(30, 18%, 87%)
@@ -23,18 +23,16 @@ The designs were created to the following widths:
 - Rose 800: hsl(332, 51%, 32%)
 - Rose 50: hsl(330, 100%, 98%)
 
-## Typography
+## Tipografia
 
-### Body Copy
+### Texto do Corpo
 
-- Font size (paragraph): 16px
+- Tamanho da fonte (parágrafo): 16px
 
-### Fonts
+### Fontes
 
-- Family: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
-- Weights: 400
+- Família: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
+- Pesos: 400
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Weights: 400, 600, 700
-
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a design system and tablet layout to help you build a more accurate solution faster.
+- Família: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Pesos: 400, 600, 700

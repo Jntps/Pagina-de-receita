@@ -1,0 +1,12 @@
+td {
+
+border-bottom: 1px solid lightgray;
+padding: 15px; 
+
+}
+
+.valor {
+    
+    color: hsl(14, 45%, 36%) ;
+    font-weight: bold;
+}
